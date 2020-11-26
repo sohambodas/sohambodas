@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-![] (ai gif.gif )
-![picture] (Screenshot_45.png)
+
+![](ai.gif )
 
 
-This is *Learner*... <br>
-and will continue to be a learner.
+I am a **Learner**... <br>
+and will continue to be a **learner**.
 
 
 <!--
