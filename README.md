@@ -1,15 +1,14 @@
-### Hi there 👋
-
-
-![](ai.gif )
-
+### Welcome here 👋
+![](ai2.png)
 
 I am a **Learner**... <br>
 and will continue to be a **learner**.
 
+#### *"A Learner never promotes."*
 
 <!--
 **sohambodas/sohambodas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](ai.gif )
 
 Here are some ideas to get you started:
 
