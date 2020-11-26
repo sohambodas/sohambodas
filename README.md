@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![](ai gif.gif )
+![] (ai gif.gif )
+![picture] (Screenshot_45.png)
 
 
 This is *Learner*... <br>
