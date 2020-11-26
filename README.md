@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+![picture](ai gif.gif)
+
+
+This is *Learner*... <br>
+and will continue to be a learner.
+
+
 <!--
 **sohambodas/sohambodas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
