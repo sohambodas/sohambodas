@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![picture](ai gif.gif )
+![](ai gif.gif )
 
 
 This is *Learner*... <br>
