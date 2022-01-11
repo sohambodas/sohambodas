@@ -2,11 +2,11 @@
 ![](ai2.gif)
 
 # Hey there 👋
-## I am
+### I am
 a Data Science/ Machine Learning Enthusiast.
-## I am 
+### I am 
 Looking for opportunitues in these domains
-## I am 
+### I am 
 a **Learner**... <br>
 and will continue to be a **learner**.
 
