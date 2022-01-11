@@ -1,9 +1,13 @@
 
 ![](ai2.gif)
 
-### Welcome here 👋
-
-I am a **Learner**... <br>
+# Hey there 👋
+## I am
+a Data Science/ Machine Learning Enthusiast.
+## I am 
+Looking for opportunitues in these domains
+## I am 
+a **Learner**... <br>
 and will continue to be a **learner**.
 
 #### *"A Learner never promotes."*
