@@ -3,7 +3,7 @@
 
 # Hey there 👋
 ### I am
-a Data Science/ Machine Learning Enthusiast.
+a Software Engineering/Machine Learning Enthusiast.
 ### I am 
 Looking for opportunitues in these domains
 ### I am 
